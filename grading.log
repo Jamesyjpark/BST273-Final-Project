@@ -1,0 +1,7 @@
+2018-10-30,14:34:51 - INFO - Starting to grade parkyeongjun's project
+2018-10-30,14:34:51 - INFO - Found README at /Users/kev/Dropbox (Huttenhower Lab)/bst273_fall2018/submissions/parkyeongjun_250849_6709338/README.txt
+2018-10-30,14:34:51 - INFO - Found script at /Users/kev/Dropbox (Huttenhower Lab)/bst273_fall2018/submissions/parkyeongjun_250849_6709338/scatter.py
+2018-10-30,14:34:51 - INFO - Found demo_input at /Users/kev/Dropbox (Huttenhower Lab)/bst273_fall2018/submissions/parkyeongjun_250849_6709338/iris_renamed.tsv
+2018-10-30,14:34:51 - INFO - Found demo_output at /Users/kev/Dropbox (Huttenhower Lab)/bst273_fall2018/submissions/parkyeongjun_250849_6709338/scatter.png
+2018-10-30,14:35:13 - WARNING - At least one listed command failed - check manually
+2018-10-30,14:35:13 - INFO - Commands: [['python', 'scatter.py', 'iris.renamed.tsv', '-x', '1', '-y', '2', '-z', '5']]
